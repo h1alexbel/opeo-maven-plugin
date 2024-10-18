@@ -37,6 +37,7 @@ import org.eolang.jeo.representation.xmir.XmlNode;
 import org.eolang.jeo.representation.xmir.XmlOperand;
 import org.eolang.opeo.Instruction;
 import org.xembly.Directive;
+import org.eolang.jeo.representation.directives.OpcodeName;
 
 /**
  * Opcode output node.

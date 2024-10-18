@@ -27,7 +27,7 @@ import java.util.Arrays;
 import java.util.Collections;
 import java.util.List;
 import lombok.ToString;
-import org.eolang.opeo.ast.OpcodeName;
+import org.eolang.jeo.representation.directives.OpcodeName;
 import org.eolang.opeo.jeo.JeoInstruction;
 
 /**

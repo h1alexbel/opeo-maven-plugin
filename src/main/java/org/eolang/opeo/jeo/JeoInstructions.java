@@ -30,7 +30,7 @@ import org.eolang.jeo.representation.xmir.XmlLabel;
 import org.eolang.jeo.representation.xmir.XmlMethod;
 import org.eolang.opeo.Instruction;
 import org.eolang.opeo.LabelInstruction;
-import org.eolang.opeo.ast.OpcodeName;
+import org.eolang.jeo.representation.directives.OpcodeName;
 
 /**
  * Class that represents the instructions provided by jeo maven plugin.

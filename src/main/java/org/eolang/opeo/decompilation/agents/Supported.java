@@ -28,7 +28,7 @@ import java.util.HashSet;
 import java.util.Set;
 import java.util.stream.Collectors;
 import org.eolang.opeo.ast.Opcode;
-import org.eolang.opeo.ast.OpcodeName;
+import org.eolang.jeo.representation.directives.OpcodeName;
 
 /**
  * Supported opcodes.
